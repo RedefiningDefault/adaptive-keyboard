@@ -30,7 +30,7 @@ module.exports = {
 	},
 	resolve: {
 		root: __dirname,
-		modulesDirectories : ["node_modules", "style", "third_party/Tone.js/", "app", "third_party/"],
+		modulesDirectories : ["node_modules", "style", "third_party/Tone.js/", "app/", "third_party/"],
 	},
 	plugins: PROD ? [
 	    new webpack.optimize.UglifyJsPlugin({minimize: true})

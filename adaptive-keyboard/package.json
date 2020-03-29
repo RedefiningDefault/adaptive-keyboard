@@ -1,12 +1,12 @@
 {
-  "name": "Chords-Musicbox",
+  "name": "Adaptive Keyboard",
   "version": "1.0.0",
   "description": "",
   "main": "build/Main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 0"
   },
-  "author": "Yotam Mann",
+  "author": "Yotam Mann; Adapted by Kirsten Moreau",
   "dependencies": {
     "autoprefixer-loader": "^2.1.0",
     "component-resolver-webpack": "*",
